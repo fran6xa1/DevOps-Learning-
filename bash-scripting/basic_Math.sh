@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#editing this to test if pushing to github works
+
+
 #Asking the user to input 2 numbers
 read -p "Enter first number: " a
 read -p "Enter second number: " b
